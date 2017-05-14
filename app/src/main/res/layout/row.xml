@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/row_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hi there"
+        android:textColor="@color/textcolor"
+        android:layout_marginBottom="1dp"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RatingBar
+            android:id="@+id/row_rate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:layout_marginRight="10dp"
+            android:progressTint="@color/green"
+            android:rating="1.0"
+            style="?android:attr/ratingBarStyleSmall"
+            android:stepSize="0.5"
+            android:isIndicator="true"
+            />
+
+        <TextView
+            android:id="@+id/row_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="hello"
+            android:textColor="@color/textcolor"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>

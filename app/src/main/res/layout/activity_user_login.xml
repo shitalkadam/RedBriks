@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.example.android.redbriks.UserLogin">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="home"
+        android:text="SKIP"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="@color/textcolor"
+        android:layout_gravity="right"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Redbricks"
+        android:textColor="@color/textcolor"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:textColor="@color/textcolor"
+        android:text="Sign in or register to save your favourite homes"
+        android:textSize="20dp" />
+
+    <EditText
+        android:id="@+id/email_text"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="30dp"
+        android:hint="Email..."
+        android:inputType="textEmailAddress"
+        android:textStyle="italic" />
+    <!--to add to the git-->
+
+    <EditText
+        android:id="@+id/password_text"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:hint="Password..."
+        android:inputType="textPassword"
+        android:textStyle="italic" />
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_shape"
+        android:text="SIGN IN"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:onClick="submit"/>
+
+    <TextView
+        android:id="@+id/error2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:text="OR"
+        android:textColor="@color/textcolor"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_shape"
+        android:text="SIGN UP"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:onClick="register" />
+</LinearLayout>

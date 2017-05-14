@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/green"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/home_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/home"
+            android:layout_marginRight="27dp"
+            android:focusableInTouchMode="true"
+            android:onClick="doNothing" />
+
+        <ImageButton
+            android:id="@+id/search_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/search1"
+            android:layout_marginRight="27dp"
+            android:focusableInTouchMode="true" />
+
+        <ImageButton
+            android:id="@+id/share_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/share1"
+            android:layout_marginRight="27dp"
+            android:focusableInTouchMode="true"
+            android:onClick="shareOnFacebook" />
+        <ImageButton
+            android:id="@+id/comment_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/monolog"
+            android:focusableInTouchMode="true"
+            android:onClick="displayComments" />
+    </LinearLayout>
+
+</LinearLayout>

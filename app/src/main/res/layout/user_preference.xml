@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background"
+
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:background="@color/green"
+        android:text="HOUSE PREFERENCES"
+        android:textColor="@color/textcolor"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="City :"
+                android:textColor="@color/textcolor"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center_horizontal"
+                android:text="Age range :"
+                android:textColor="@color/textcolor"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="Rent range :"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/textcolor"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.AppCompatSpinner
+                android:id="@+id/location_spinner"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textcolor"
+                android:layout_gravity="center_horizontal" />
+
+            <android.support.v7.widget.AppCompatSpinner
+                android:id="@+id/agerange_spinner"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textcolor"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"/>
+
+            <android.support.v7.widget.AppCompatSpinner
+                android:id="@+id/price_spinner"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/textcolor"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/preference_ok"
+            android:layout_width="100dp"
+            android:layout_height="35dp"
+            android:layout_marginRight="25dp"
+            android:background="@drawable/button_shape"
+            android:text="@android:string/ok"
+            android:textColor="#ffffff"
+            android:textSize="18dp" />
+        <Button
+            android:id="@+id/preference_cancel"
+            android:layout_width="100dp"
+            android:layout_height="35dp"
+            android:background="@drawable/button_shape"
+            android:text="@android:string/cancel"
+            android:textColor="#ffffff"
+            android:textSize="18dp" />
+    </LinearLayout>
+</LinearLayout>

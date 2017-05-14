@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_9fb5522f0bc01e17784fa9c1d0ad1aefdae59a2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_86f09dbee1c09168e80f50f27e1f3b73fe3b4868/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d65e8c6f3ee476b55a913698d4cfcf35a639bc48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_21eadef9caf1f2d656de5abbb363261bfa171a96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_dfa18deb7ac5f483c2ec53a84b02ed6413d42d0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_00c0be8df9c042fbbf7f214e1d6988f2e36eb9fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_3ccd4fa8b4f53ef34994e7a7b6fafc4a0e42bb35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_a6d1e5923b11189811036bba090638fa317440bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_cf21092fd66ff5b97c99778f4b3b100b2aa8130c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_beb685b63d31106da3696487d8c524e491ae6552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d9e55ba052a8e4fdea85cb76509fb7ecf01500f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_8e99795b3fa6f71de80584f2c9f17e761cf5c45d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_7be8dc5aafcdb6cb1cc64dc6861fbb0b716d365d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9b2fb0185b942a231413162fe8d29b9bd3711fac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_800cdc9de46aa6d2679824e1c51cb61d963f348a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_33b1355ab2f4814833d12a5547db19669c37e894/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_5d908c866b8a1379a411918cac42f109a821abfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_28dae45b789c81e0e399e7b228347aeb28f1b9dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_4136e37a1a9099917227c280d4ff891092267d07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_dd7eea69fd8a13ccfbea72c0468960e56454bf6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.5_e63a5211afa2a1023b25a5eb3bcfaecc0106e18c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_dcaf77a280b74b757a846a80ff6675588a5aa22e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_3b3d853d1e62fa596a3be12ba6798c736edc2c36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_55b4e95e29f4da813465a72c0dc61fe6fa7cc35e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_00617386872bc7468d8b2d8dc37399388b01a406/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_a0923343c9fae5f2068aa0bd68b2e5bda1046fc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_c8fa628405c5427a735d99f6a0d27c04b6627766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8b5cc7b66f877420f0c45dedf0e40fa3b0e6dd56">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_78351303c9451e38525b71c57aecbc39b647c45b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_503f67bde9888b87fa59064132ab092ffa3ae77f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_ee5ab861d27236ccf49b5dbf8dd23d78e00777d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_7a0c15fadd8ab4688119981f74984dd7184a2da9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_b828f2ac28c3da78fdea5d5883b2105614921e12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_cbbbd078ca5a7a44a5721aa776d77421a096745b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_f604bcdd31cd7e66f690fff0c83302d653e5260d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_4b8e078cb3d0e889ab96ca1a2367a6d9852d188b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_dde4177628376c0294b00d48473fbc6ffcaf07f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8662845a8aa55b09297a15ecbe4efc7b77880e97">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cbb5b5e466091c2991b1c41ae88cfb76d38a2ece/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_eccba775edfedf4eda20a9aea9228276c400b34a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_b0fad9ad46aaa59735986c2c98e12c7cb46ac1f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_cd41ebc8dc06bb24e8f5b4708831b3feef9d3c40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_e87496fb28c8ca0545e96a8754ff89f1be0abd3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_b050689a67641d26dc1440d7dc15ea445dce92d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_bb58c3b541b4c14a748ea1fef5bb0154529b03d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_083d53a3edf9a96d3e9fd1258c5b0bfb946f9ad5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_1091f2656512e1d8f2efcef3a5b0a143a099dc5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/libs/apache-httpcomponents-httpclient.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/2/apache-httpcomponents-httpclient_8231f5dc9a82272ced7b54800dbd69731aa854af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_3e9c93448114df53046515707f46e921728a05a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/.gradle/caches/modules-2/files-2.1/com.pubnub/pubnub/3.7.3/4eee671c08dadc9eb1388dbf181c112ad85e9f59/pubnub-3.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4eee671c08dadc9eb1388dbf181c112ad85e9f59">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/pubnub-3.7.3_533e4c8a2f21230795c50134f758619f6944ff42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_3567dd04312bbe3e4a9b0e447b799c1fbd64ca82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_e69141dbd0c04dd52c478a137c252448c856c49b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_84caaf971c6fd484b551f481f47c8a9eb71a7a57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_5aae4d31ccc63672c9bd3a963acc9138f2fcd52e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_228250378e01814191474aba7bb5ee49b201bf3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_1d38a572d54c14584e7a8fe9225d21a48def6fe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_27244f5dd10e4865c9d1a071a22521250c8326de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_10c051f435eb30bc9a040e6075ba6118ae67201a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_645798229b9bf965f561087dca153c494dbc4503/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_c391e319e93a5be8b8f477d80e2f14ce0eadd0ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_d91355c087a34407caa0a84645f3703c3c9180e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_8a1c550e9c5a8038c46691570ba781aaeb69a3bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_e64ce0cd6c6ed258cf1ebe4c628f08472b131ec9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_7f5e075d3af9c9e3ed4a5aea223b4c4e0dbae8dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_b5a6a60f52c7d091278e25b3d8b02e254f938a55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_f954d3cee22ba95bc984522884b1afbb8b1f7fdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_e5db8fbcd0a515ed3c6ce52f1b48763ea50b1105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk16/1.46/ce091790943599535cbb4de8ede84535b0c1260c/bcprov-jdk16-1.46.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce091790943599535cbb4de8ede84535b0c1260c">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/bcprov-jdk16-1.46_6eb68b5b630c9b101f5f55b33c49d2742cfcadf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_3c262ca3374e0dd443fd3b18cfb1538fb3613f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_504e30559d56248a196762f34962a7e5d393b78e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_0dd0c73e667c1b40aaa9cae6adbf5bacb69d3523/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_7152fd04315a3ebb13f159cd33e116fcdb353c24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_12b0ed00eae77ff6fd8da95930b9148983b05942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_f4ac6041476de3e8172810834905ea5e34b01981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_39aed8e428f1c469845984e1ccaf198c58968d59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_23e73218924488b6f59a5a50a514dafb02130cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_b6d4bd8d8f2baf730007fcee251547f678b3a6be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_81fdcc873fcc326748f272ada562740a78c2e020/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_d3ab32d4eaccacb774e8865e21e71cafcea0dd42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_c9dde1e57d1574b1282f8e6ca1f90eac4998349a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_dbcc09e68e9db426500398427ce4fe3b8df79f40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.4.0_573c23d3d72e5980cee14a78af29c590bd54c4ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_539e088574b426234b3b7ed56dbc6a28859195f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_6f014c30d36f22cf37e0c208a43c83f2af465b33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_c10cdb2bb60ea033b3d57798043095c24f09026e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/AndroidStudioProjects/Redbricks/app/libs/apache-httpcomponents-httpcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/2/apache-httpcomponents-httpcore_c26afa041d74e279a8130ddb1c8f112dd40d9b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shital/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/Users/shital/AndroidStudioProjects/Redbricks/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.4.0_19ead1e729ab4a981ad82feb8dc682aac0997efe/classes.dex" />
+    </item>
+
+</items>
